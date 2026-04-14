@@ -1,13 +1,13 @@
 ---
-title: Your Name
+title: Katie Despeaux
 layout: base
 date: 2024-12-02
 ---
 
 
-# Your Name
+Katie Despeaux, MA, MS
 
-This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
+I am a PhD student in Medieval History at the University of New Mexico. My research focuses on the medieval experiences of pregnancy and how they intersected with power. 
 
 ---
 
@@ -16,7 +16,7 @@ The cards below are generated automatically from your other pages. Each page tha
 ```yaml
 homepage: TRUE
 summary: A sentence or two describing this page — appears on the card.
-thumbnail: assets/images/your-image.jpg
+thumbnail: assets/images/Despeaux-headshot.jpg
 position: 1   # controls the order cards appear (lower numbers first)
 ```
 
