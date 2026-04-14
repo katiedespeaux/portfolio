@@ -16,7 +16,7 @@ INTRO DATABASE
 
 ## Teaching Philosophy
 
-Write a paragraph or two about how you approach teaching. What do you believe about how students learn? What are you trying to accomplish in the classroom? You don't need a formal teaching statement here — a direct, honest account of your approach is more compelling than polished boilerplate.
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F13415323%2Fcollections%2FXSWBKDDP%2Fitems%3Fkey%3DBsd8kwkz4eitCL3IpxfOl3QC%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
 {% include images/figure.html
   class="right"

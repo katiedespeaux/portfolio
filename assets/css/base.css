@@ -26,7 +26,7 @@ PAGE SETUP & CUSTOMIZATION
   --sage-pale: #b2cdbc;    /* Lightest sage tint */
   --sage: #6b8e7f;         /* Primary sage green */
   --sage-deep: #3d4e42;    /* Deep sage */
-  --sage-dark: #2d3e35;    /* Darkest sage, almost black */
+  --rosy-mauve: #B784A7;    /* rosy mayve */
 
   /* Warm neutrals */
   --warm-white: #f5f3f0;   /* Warm off-white */
@@ -47,7 +47,7 @@ PAGE SETUP & CUSTOMIZATION
   --bg-nav: var(--sage);
 
   /* Text */
-  --text-body: var(--sage-dark);
+  --text-body: var(--rosy-mauve);
   --text-on-dark: var(--warm-white);
   --text-muted: #666;
 
