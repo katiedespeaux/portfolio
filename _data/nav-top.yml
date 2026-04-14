@@ -7,6 +7,12 @@
       url: /conception
     - title: "Quickening"
       url: /quickening
+    - title: "Visible Pregnancy"
+      url: /visible-pregnancy
+    - title: "Childbirth"
+      url: /childbirth
+    - title: "Confinement"
+      url: /confinement
   
 - title: "CV"
   url: /cv

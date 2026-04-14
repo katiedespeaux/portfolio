@@ -1,21 +1,21 @@
 ---
-title: Creative Work
+title: Conception Sources
 layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 3
-summary: Replace this with a sentence describing this page — what kind of creative work do you make or curate? This appears on the homepage card.
-thumbnail: assets/images/ai-created-kinetic-sculpture.png
+summary: Medieval people had many ideas about conceiving children and practices to become pregnant. These sources range from medical texts to manuscript illustrations to personal experiences regarding conception.
+thumbnail: assets/images/bnf-latin-1369.jpg
 ---
 
-CONCEPTION
-This page is a placeholder for a fourth content area — it's called "Creative Work" here, but it's yours to rename and repurpose. Common uses: a portfolio of creative or artistic projects, a public writing page, a digital projects showcase, a section for journalism or multimedia work.
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F13415323%2Fcollections%2FXSWBKDDP%2Fitems%3Fkey%3DBsd8kwkz4eitCL3IpxfOl3QC%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
-To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
 
 ---
 
 ## Your Section Title
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F13415323%2Fcollections%2FXSWBKDDP%2Fitems%3Fkey%3DBsd8kwkz4eitCL3IpxfOl3QC%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
 {% include images/figure.html
   class="left"
