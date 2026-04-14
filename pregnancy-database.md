@@ -2,6 +2,7 @@
 title: Pregnancy Database
 layout: base
 header-image: assets/images/childbirth.jpg
+header-title: "Pregnancy Database" 
 date: 2025-09-30
 homepage: TRUE
 position: 2
