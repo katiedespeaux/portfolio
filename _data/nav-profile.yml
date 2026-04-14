@@ -1,21 +1,14 @@
 settings:
   links_font_weight: normal
 
-image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
+image_url: /assets/images/Despeaux-headshot.jpg
 alt_text: "Your profile photo"
-name: Your Name
-description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+name: Katie Despeaux
+description: I am a PhD student in Medieval History at the University of New Mexico. My research focuses on the medieval experiences of pregnancy and how they intersected with power. 
 
 links:
-  - title: Personal Website
-    url: https://example.com
-    icon: fas fa-globe
-  - title: GitHub
-    url: https://github.com
-    icon: fab fa-github
-  - title: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
+  - title: University of New Mexico profile 
+    url: https://history.unm.edu/people/graduate-students/profiles/katie-despeaux.html
   - title: Email
-    url: mailto:contact@example.com
+    url: katiedespeaux@unm.edu
     icon: fas fa-envelope
