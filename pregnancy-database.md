@@ -1,6 +1,7 @@
 ---
 title: Pregnancy Database
 layout: base
+header-image: assets/images/childbirth.jpg
 date: 2025-09-30
 homepage: TRUE
 position: 2
@@ -8,9 +9,7 @@ summary: Replace this with a sentence or two about your teaching — your approa
 thumbnail: assets/images/great-lecture.jpg
 ---
 
-This is your Teaching page. Replace everything below this line with your own content.
-
-Teaching pages work well for a teaching philosophy statement, a list of courses you've taught, sample syllabi or assignments, and anything that shows how you work in the classroom. Add an image with `figure` or `figure-wrap` to make the page more visual — it's good practice for learning the components, and it makes the page more interesting to read.
+INTRO DATABASE
 
 ---
 
