@@ -1,6 +1,6 @@
 ---
 title: Your Name
-layout: nav-profile
+layout: base
 date: 2024-12-02
 ---
 
