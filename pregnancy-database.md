@@ -10,37 +10,19 @@ summary: Replace this with a sentence or two about your teaching — your approa
 thumbnail: assets/images/great-lecture.jpg
 ---
 
-Welcome to the Medieval Pregnancy Database! Navigate to the heading "Pregnancy Database" above to select a stage of pregnancy for which you want to see primary sources. 
-
+Welcome to the Medieval Pregnancy Database! 
 ---
 
 ## Why a Pregnancy Database?
 
-
-
-{% include images/figure.html
-  class="right"
-  width="45%"
-  caption="Add an image that represents your teaching — a classroom, a field site, a project students built."
-  image-path="/assets/images/great-lecture.jpg"
-%}
-
-A second paragraph here works well. You can use this space to describe your methods, discuss a particular challenge you've worked through as a teacher, or explain what kinds of learning you prioritize.
+In my own dissertation research, I have found that reproduction-related sources are disparate but plenty. I wanted to make a public-facing and accessible place where anyone interested in medieval reproduction could easily access primary sources to help with their research and knowledge. 
 
 ---
 
-## Courses
-
-### Course Name (Course Number)
-*Institution, Semester Year*  
-One sentence describing the course and who it's for.
-
-### Course Name (Course Number)
-*Institution, Semester Year*  
-One sentence describing the course and who it's for.
+## How to Use the Pregnancy Database?
+Navigate to the heading "Pregnancy Database" above to select a stage of pregnancy for which you want to see primary sources. Each page is linked to a Zotero database where the primary sources are stored. I have included links to the website where the primary sources are located when possible. When there is no website link, but the details are available within the Zotero library, you can go directly to the library to find the specific details: https://www.zotero.org/groups/6511728/pregnancy_source_database 
 
 ---
 
-## Student Projects
-
-If your courses produce public-facing work — websites, video essays, research projects, archives — link to them here. This is one of the best ways to show what happens in your classroom.
+## Questions? Problems with the Database or Zotero Group?
+Email katiedespeaux@unm.edu with any questions or concerns 
