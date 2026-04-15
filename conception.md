@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: Medieval people had many ideas about conceiving children and practices to become pregnant. These sources range from medical texts to manuscript illustrations to personal experiences regarding conception.
-thumbnail: assets/images/bnf-latin-1369.jpg
+thumbnail: assets/images/bnf-ms-latin-1369.jpg
 ---
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F13415323%2Fcollections%2FXSWBKDDP%2Fitems%3Fkey%3DBsd8kwkz4eitCL3IpxfOl3QC%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
