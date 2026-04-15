@@ -2,8 +2,6 @@
 title: Quickening Sources
 layout: base
 date: 2025-09-30
-homepage: TRUE
-position: 3
 summary: Quickening refers to the moment when a pregnant person feels the fetus move in their womb for the first time. As a very intimate experience, sources are relatively rare, but do exist. An important medieval religious story was when Mary met with Elizabeth to tell her she was pregnant with Christ, and when she touched Elizabeth's stomach, Elizabeth felt her quickening with her child, John the Baptist.
 
 thumbnail: assets/images/the-visitation-cloisters.jpg
