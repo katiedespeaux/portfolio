@@ -3,7 +3,7 @@ title: Research
 layout: base
 date: 2025-09-30
 homepage: TRUE
-position: 1
+position: 2
 summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 ---
