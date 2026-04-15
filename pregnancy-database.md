@@ -20,7 +20,7 @@ In my own dissertation research, I have found that reproduction-related sources 
 ---
 
 ## How to Use the Pregnancy Database?
-Navigate to the heading "Pregnancy Database" above to select a stage of pregnancy for which you want to see primary sources. Each page is linked to a Zotero database where the primary sources are stored. I have included links to the website where the primary sources are located when possible. When there is no website link, but the details are available within the Zotero library, you can go directly to the library to find the specific details: https://www.zotero.org/groups/6511728/pregnancy_source_database 
+Navigate to the heading "Pregnancy Database" above to select a stage of pregnancy for which you want to see primary sources. Each page is linked to a Zotero database where the primary sources are stored. I have included links to the website where the primary sources are located when possible. When there is no website link, but the details are available within the Zotero library, you can go directly to the library to find the specific details: https://www.zotero.org/groups/6511728/pregnancy_source_database/library 
 
 ---
 
