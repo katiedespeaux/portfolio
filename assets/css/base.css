@@ -26,11 +26,16 @@ PAGE SETUP & CUSTOMIZATION
   --sage-pale: #b2cdbc;    /* Lightest sage tint */
   --sage: #6b8e7f;         /* Primary sage green */
   --sage-deep: #3d4e42;    /* Deep sage */
-  --rosy-mauve: #B784A7;    /* rosy mayve */
+  --rosy-mauve: #B784A7;    /* rosy mauve */
+  --red-wine: #380000;    /* dark red wine */
 
-  /* Warm neutrals */
+
+  /* Warm neutrals *
   --warm-white: #f5f3f0;   /* Warm off-white */
+  --warm-white: #f5f3f0;   /*warm off-white*/
+
   --warm-light: #e8e4df;   /* Light warm tone for cards */
+
   --golden-wash: #f5ece0;  /* Very light golden tint for special sections */
 
   /* Accent colors */
@@ -47,14 +52,14 @@ PAGE SETUP & CUSTOMIZATION
   --bg-nav: var(--sage);
 
   /* Text */
-  --text-body: var(--rosy-mauve);
-  --text-on-dark: var(--warm-white);
+  --text-body: var(--sage-deep);
+  --text-on-dark: var(--rosy-mauve);
   --text-muted: #666;
 
   /* Accents & Interactive */
   --accent-primary: var(--sage);
-  --accent-border: var(--golden-clay);
-  --interactive-hover: var(--amber);
+  --accent-border: var(--sage-pale);
+  --interactive-hover: var(--red-wine);
 
   /* Status colors */
   --success: #28a745;
@@ -68,7 +73,7 @@ PAGE SETUP & CUSTOMIZATION
   --text-h2: var(--sage);
   --text-h3: var(--sage-deep);
   --text-h4: var(--sage-dark);
-  --text-h5: var(--golden-clay-dark);
+  --text-h5: var(--red-wine);
 
   /* Utility */
   --overlay-dark: rgba(0, 0, 0, 0.8);
