@@ -27,6 +27,7 @@ PAGE SETUP & CUSTOMIZATION
   --sage: #6b8e7f;         /* Primary sage green */
   --sage-deep: #3d4e42;    /* Deep sage */
   --red-wine: #380000;    /* dark red wine */
+  --rosy-mauve: #CC88B6;     /*medium mauve*/
 
 
   /* Warm neutrals *
@@ -52,7 +53,7 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var(--red-wine);
+  --text-on-dark: var(--rosy-mauve);
   --text-muted: #666;
 
   /* Accents & Interactive */
