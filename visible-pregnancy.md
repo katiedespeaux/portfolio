@@ -12,7 +12,7 @@ thumbnail: assets/images/vierge-enceinte.jpg
   class="right"
   width="40%"
   caption="Mary Expectans, ca. 1430–1440, St. Agnes Convent, Prague, Czechia"
-  image-path="/assets/images/vierge-enceinte.jpg"
+  image-path="/assets/images/Vierge-enceinte.jpg"
 %}
 
 ## Visble Pregnancy-Related Sources
