@@ -53,12 +53,12 @@ PAGE SETUP & CUSTOMIZATION
 
   /* Text */
   --text-body: var(--sage-deep);
-  --text-on-dark: var(--rosy-mauve);
+  --text-on-dark: var(--red-wine);
   --text-muted: #666;
 
   /* Accents & Interactive */
-  --accent-primary: var(--sage);
-  --accent-border: var(--sage-pale);
+  --accent-primary: var(--rosy-mauve);
+  --accent-border: var(--rosy-mauve);
   --interactive-hover: var(--red-wine);
 
   /* Status colors */
