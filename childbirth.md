@@ -2,11 +2,18 @@
 title: Childbirth Sources
 layout: base
 date: 2025-09-30
-summary: Childbirth during the Middle Ages was fraught with anxiety about pain and the possibility of death. Most women employed midwives to help with the birth and used rituals, charms, and items to aid in their delivery. 
+Childbirth during the Middle Ages was fraught with anxiety about pain and the possibility of death. Most women employed midwives to help with the birth and used rituals, charms, and items to aid in their delivery. 
 
-thumbnail: assets/images/childbirth.jpg 
+thumbnail: assets/images/Cantiga-89.jpg 
 ---
----
+Childbirth during the Middle Ages was fraught with anxiety about pain and the possibility of death. Most women employed midwives to help with the birth and used rituals, charms, and items to aid in their delivery. 
+
+{% include images/figure.html
+  class="right"
+  width="40%"
+  caption="Childbirth Scene, cantiga 89, Cantigas de Santa María, c. 13th century"
+  image-path="/assets/images/Cantiga-89.jpg"
+%}
 
 ## Childbirth-Related Sources
 
