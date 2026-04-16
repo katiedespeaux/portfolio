@@ -8,6 +8,7 @@ thumbnail: assets/images/conception.jpg
 {% include images/figure.html
   class="right"
   width="40%"
+  caption="Married Couple, scene from a manuscript"
   image-path="/assets/images/conception.jpf"
 %}
 
