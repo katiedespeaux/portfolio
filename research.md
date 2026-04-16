@@ -4,8 +4,8 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 2
-summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
-thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
+summary: Details on my current research projects.
+thumbnail: assets/images/BNF-MS-Latin-1369.jpg
 ---
 
 This is your Research page. Replace everything below this line with your own content. A research page typically includes an overview of your scholarly interests, descriptions of current and past projects, and any relevant links or media.

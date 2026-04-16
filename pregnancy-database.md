@@ -6,8 +6,8 @@ header-title: "Pregnancy Database"
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: Replace this with a sentence or two about your teaching — your approach, the courses you teach, or what you most want students to take away. This appears on the homepage card.
-thumbnail: assets/images/great-lecture.jpg
+summary: Access the Pregnancy Source Database here! 
+thumbnail: assets/images/childbirth.jpg
 ---
 
 Welcome to the Medieval Pregnancy Database! 
